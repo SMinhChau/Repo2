@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 4EC5-3FD9
+
+ Directory of D:\FreeTime\HTML\Begin
+
+01/01/2022  11:31 AM    <DIR>          .
+01/01/2022  11:31 AM    <DIR>          ..
+01/01/2022  11:16 AM    <DIR>          html
+01/01/2022  11:31 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  69,970,202,624 bytes free
